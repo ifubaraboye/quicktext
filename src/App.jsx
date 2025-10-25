@@ -74,7 +74,7 @@ function App() {
       </div>
 
       <p className="text-gray-500 pt-10">Hi. I'm Oribi. I built this tool because I was annoyed with crosschecking fonts when working on projects. </p>
-      <a href="" className="text-gray-500 py-3 hover:text-white">View Github</a>
+      <a href="https://github.com/ifubaraboye/quicktext" target="_blank" className="text-gray-500 py-3 hover:text-white">View Github</a>
     </div>
   )
 }
